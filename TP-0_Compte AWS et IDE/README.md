@@ -30,3 +30,5 @@ On suppose que les deux premières étapes notamment la création de compte grat
 
 
 ## Etape4 : Installez un IDE, par exemple ATOM et installer un plugin terraform pour vous faciliter la correction syntaxique
+- Pour ce qui concerne l'IDE, moi je vais installer VS Code et ensuite installer le plugin HashiCorp Terraform
+> ![5-VS Code + Hashicop Terraform] ![](./images/vscode-terraform.png)
