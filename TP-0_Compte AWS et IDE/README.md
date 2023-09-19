@@ -17,17 +17,16 @@ On suppose que les deux premières étapes notamment la création de compte grat
 - Je Choisis le service IAM (Identity and Access Management)
 - Je me rends sur le module **Access Management** et je clique sur l'onglet **Users**
 - Ensuite, je clique sur le bouton **Create user** 
-
-1)
 > ![1-create user] ![](./images/create-user.jpg)
 
-2)
+- Ensuite, je définis les détails spécifique de l'utilisateur
 > ![2-create : specify details] ![](./images/create-specify-details.jpg)
 
-3)
+- Ensuite, je définis les accès pour l'utilisateur (ici, je choisis **AdministratorAccess** pour permettre à mon utilisateur IAM d'avoir un accès total aux services et ressources)
 > ![3-create user : AdministratorAccess] ![](./images/create-user-AdministratorAccess.jpg)
 
-4)
+- Ensuite, je valide 
 > ![4-create user successfully] ![](./images/user-created-successfully.jpg)
+
 
 ## Etape4 : Installez un IDE, par exemple ATOM et installer un plugin terraform pour vous faciliter la correction syntaxique
