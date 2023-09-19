@@ -21,4 +21,4 @@ ici, moi je suis entrain de travailler sous Windows
 ![](./images/terraform-path.png)
 
 - Et en fin, je peux vérifier l'installation :
-[](./images/terraform-verify.png)
+![](./images/terraform-verify.png)
