@@ -15,6 +15,7 @@ ici, moi je suis entrain de travailler sous Windows
 > ![1-Terraform download] ![](./images/terraform-download.png)
 
 - Ensuite, je le dézipe dans le dossier `C:\terraform_1.5.7\`
+
 > ![2-C:\terraform_1.5.7\] ![](./images/c-terraform.png)
 
 - Ensuite, je rajouter le répertoire `C:\terraform_1.5.7\` dans le PATH de votre système d'exploitation
