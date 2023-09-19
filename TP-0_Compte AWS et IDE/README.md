@@ -23,10 +23,10 @@ On suppose que les deux premières étapes notamment la création de compte grat
 > ![2-specify details] ![](./images/specify-details.png)
 
 - Ensuite, je définis les accès pour l'utilisateur (ici, je choisis **AdministratorAccess** pour permettre à mon utilisateur IAM d'avoir un accès total aux services et ressources)
-> ![3-AdministratorAccess] ![](images/AdministratorAccess.png)
+> ![3-AdministratorAccess] ![](./images/AdministratorAccess.png)
 
 - Ensuite, je valide 
-> ![4-create user successfully] ![](images/successfull.png)
+> ![4-create user successfully] ![](./images/successfull.png)
 
 
 ## Etape4 : Installez un IDE, par exemple ATOM et installer un plugin terraform pour vous faciliter la correction syntaxique
