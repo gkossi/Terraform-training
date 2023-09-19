@@ -20,7 +20,8 @@ On suppose que les deux premières étapes notamment la création de compte grat
 > ![1-create user] ![](./images/create-user.jpg)
 
 - Ensuite, je définis les détails spécifique de l'utilisateur
-> ![2-specify details] ![](images/specify-details.jpg)
+> ![2-specify details] 
+![](./images/specify-details.jpg)
 
 - Ensuite, je définis les accès pour l'utilisateur (ici, je choisis **AdministratorAccess** pour permettre à mon utilisateur IAM d'avoir un accès total aux services et ressources)
 > ![3-AdministratorAccess] ![](images/AdministratorAccess.jpg)
