@@ -14,12 +14,12 @@ ici, moi je suis entrain de travailler sous Windows
 - Je récupère le binaire en ligne
 > ![1-Terraform download] ![](./images/terraform-download.jpg)
 
-- Ensuite, je le dézipe dans le dossier <<C:\terraform_1.5.7\>>
+- Ensuite, je le dézipe dans le dossier `C:\terraform_1.5.7\`
 
-> ![2-<<C:\terraform_1.5.7\>>] ![](./images/c-terraform.png)
+> `![2-C:\terraform_1.5.7\]` ![](./images/c-terraform.png)
 
-- Ensuite, je rajouter le répertoire <<`C:\terraform_1.5.7\`>> dans le PATH de votre système d'exploitation
-> ![3-Terraform path] ![](./images/terraform-path.png)
+- Ensuite, je rajouter le répertoire `C:\terraform_1.5.7\` dans le PATH de votre système d'exploitation
+> `![3-Terraform path]` ![](./images/terraform-path.png)
 
 - Et en fin, je peux vérifier l'installation :
 > ![4-Terraform verify] ![](./images/terraform-verify.png)
