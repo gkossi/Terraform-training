@@ -17,7 +17,7 @@ On suppose que les deux premières étapes notamment la création de compte grat
 - Je Choisis le service IAM (Identity and Access Management)
 - Je me rends sur le module **Access Management** et je clique sur l'onglet **Users**
 - Ensuite, je clique sur le bouton **Create user** 
-> ![1-create user] ![](./images/create-user.jpg)
+> ![4-create user successfully] ![](images/successfull.jpg)
 
 - Ensuite, je définis les détails spécifique de l'utilisateur
 > ![2-specify details] 
@@ -27,7 +27,7 @@ On suppose que les deux premières étapes notamment la création de compte grat
 > ![3-AdministratorAccess] ![](images/AdministratorAccess.jpg)
 
 - Ensuite, je valide 
-> ![4-create user successfully] ![](images/successfull.jpg)
+> ![1-create user] ![](./images/create-user.jpg)
 
 
 ## Etape4 : Installez un IDE, par exemple ATOM et installer un plugin terraform pour vous faciliter la correction syntaxique
