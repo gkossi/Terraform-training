@@ -12,7 +12,7 @@
 ici, moi je suis entrain de travailler sous Windows
 
 - Je récupère le binaire en ligne
-> ![1-Terraform download] ![](./images/terraform-download.png)
+> ![1-Terraform download] ![](./images/terraform-download.jpg)
 
 - Ensuite, je le dézipe dans le dossier "C:\terraform_1.5.7\"
 
