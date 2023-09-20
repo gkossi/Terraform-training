@@ -2,3 +2,11 @@ HELP.md
 
 ### Directories ###
 .git/
+
+'TP-2_Déployez votre Ressource AWS avec terraform'/devops-kossi.pem
+TP-2_Déployez\ votre\ Ressource\ AWS\ avec\ terraform/devops-kossi.pem
+TP-2_Déployez\ votre\ Ressource\ AWS\ avec\ terraform/tp-2/.terraform
+TP-2_Déployez\ votre\ Ressource\ AWS\ avec\ terraform/tp-2/*.tfstate
+TP-2_Déployez\ votre\ Ressource\ AWS\ avec\ terraform/tp-2/*.backup
+TP-2_Déployez\ votre\ Ressource\ AWS\ avec\ terraform/tp-2/*.hcl
+
