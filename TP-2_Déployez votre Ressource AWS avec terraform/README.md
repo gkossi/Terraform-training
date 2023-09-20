@@ -27,7 +27,7 @@
 > ![Récupération du secret et access key] ![](./images/iam-access-secret-key.png)
 
 - **Créez un paire de clé dans EC2 et nommez cette clé devops-<votre prenom>, un fichier devops-<votre prenom>.pem sera téléchargé (conservez la jalousement)**
-> ![Création de la paire de clé dans EC2] ![](./images/key-pair.png)
+> ![Création de la paire de clé dans EC2] ![](./images/ec2-key-pair.png)
  
 - **Créez une fichier ec2.tf dans un répertoire nommé tp-2**
  
