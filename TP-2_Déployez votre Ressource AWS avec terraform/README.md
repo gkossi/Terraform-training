@@ -34,7 +34,7 @@
 - **Renseignez les informations permettant de créer une VM avec l’image centos suivante: Red Hat Enterprise Linux 9 (HVM), SSD Volume Type (ami-026ebd4cfe2c043b2)**
 > ![Fichier ec2.tf] ![](./images/manifeste-ec2.png)
 
-> ![Résultat de la commande terraform-init] ![](./images/terraform-init.png)
+> ![Résultat de la commande terraform-init] ![](./images/terraform-init.jpg)
 
 > ![Résultat de la commande terraform-plan] ![](./images/terraform-plan.png)
 
