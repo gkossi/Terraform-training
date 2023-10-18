@@ -10,7 +10,7 @@
 
 # STEP BY STEP WORKING
 
-On suppose que les deux premières étapes notamment la création de compte gratuit ainsi que la protection du compte root par un mot de passe fort ont été déjà réalisées
+On suppose que les deux premières étapes (***Etape1 et Etape2***) notamment la création de compte gratuit ainsi que la protection du compte root par un mot de passe fort ont été déjà réalisées
 
 ## Etape3 : Créer un compte nominattif avec les droits full admin et qui vous permettra de déployer les ressources
 - Je me connecte avec le compte root

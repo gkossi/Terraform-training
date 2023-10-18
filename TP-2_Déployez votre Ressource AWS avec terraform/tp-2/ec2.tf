@@ -1,7 +1,7 @@
 provider "aws" {
     region = "us-east-1"
-    access_key = "AKIA3OX2XYDUCA4Y2C6F"
-    secret_key = "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"
+    access_key = "AKIA3OX2XYDn,jtr"
+    secret_key = "L510qkO6TwiZfiYww9itkisb5xjglHbU+hjkl"
 }
 
 resource "aws_instance" "ggsec2" {
