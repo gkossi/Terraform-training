@@ -22,3 +22,21 @@ ici, moi je suis entrain de travailler sous Windows
 
 - Et en fin, je peux vérifier l'installation :
 ![](./images/terraform-verify.png)
+
+# PROCEDURE D'INSTALLATION DE TERRAFORM SOUS CENTOS
+```bash
+# On va mettre à jour le système ainsi que la liste des dépots
+sudo yum -y update && sudo yum -y upgrade
+
+# On va installer les outils d'extraction de l'archive ainsi que l'outil permettant de télécharger l'archive
+sudo yum install unzip wget
+
+# On va récupérer la release que l'on souhaite
+sudo wget https://releases.hashicorp.com/terraform/1.6.1/terraform_1.6.1_linux_amd64.zip
+
+# On va désarchiver le fichier et l'envoyer dans le répertoire /usr/locla/bin
+sudo unzip ./terraform_1.6.1_linux_amd64.zip -d /usr/locla/bin
+
+# On peut maintenant tester en exécutant la commande terraform
+terraform
+```
