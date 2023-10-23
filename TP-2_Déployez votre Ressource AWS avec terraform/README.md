@@ -39,8 +39,8 @@
 # Paramétrage du provider en l'occurrence "AWS"
 provider "aws" {
     region = "us-east-1"
-    access_key = "AKIA3OX2XYDn,jtr"
-    secret_key = "L510qkO6TwiZfiYww9itkisb5xjglHbU+hjkl"
+    access_key = "012340212XYDn,jtr"
+    secret_key = "L510qkO6TwiZfiYww9i11111111100000014"
 }
 
 #Paramétrage de la ressource à déployer
