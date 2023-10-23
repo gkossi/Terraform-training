@@ -35,7 +35,7 @@ sudo yum install unzip wget
 sudo wget https://releases.hashicorp.com/terraform/1.6.1/terraform_1.6.1_linux_amd64.zip
 
 # On va désarchiver le fichier et l'envoyer dans le répertoire /usr/locla/bin
-sudo unzip ./terraform_1.6.1_linux_amd64.zip -d /usr/locla/bin
+sudo unzip ./terraform_1.6.1_linux_amd64.zip -d /usr/local/bin
 
 # On peut maintenant tester en exécutant la commande terraform
 terraform
