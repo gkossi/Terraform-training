@@ -14,7 +14,7 @@
  
 - Vérifiez que votre instance est bien créée et observez le contenu de fichier tfstate
  
-- Modifiez le fichier ec2.tf afin d’y inclure le tag de votre instance : “Name: ec2-<votre prenom>”
+- Modifiez le fichier ec2.tf afin d’y inclure le tag de votre instance :"Name: ec2-<votre prenom>"
  
 - Appliquez la modification et constatez les changement apportées ainsi que dans le fichier tfstate
  
@@ -39,8 +39,8 @@
 # Paramétrage du provider en l'occurrence "AWS"
 provider "aws" {
     region = "us-east-1"
-    access_key = "012340212XYDn,jtr"
-    secret_key = "L510qkO6TwiZfiYww9i11111111100000014"
+    access_key = "01234021mlk352XYDn,jtr"
+    secret_key = "L510qkO6TwiZfiYww9i1112233441111100000014"
 }
 
 #Paramétrage de la ressource à déployer
